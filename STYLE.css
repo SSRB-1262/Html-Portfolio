@@ -1,0 +1,20 @@
+#style{font-family: Arial, Helvetica, sans-serif;}
+#style{font-size:3rem;}
+#style{font-style: italic;}
+#style{font-weight: bolder;}
+html{background-color:olivedrab;}
+#style{border:2px dotted purple ;}
+#style{padding:10px;}
+ul[id]{text-align: left;}
+*{text-align: center}
+.textcolor{font-size: medium ;}
+.textcolor{font-weight: lighter;}
+.textcolor{font-family: Arial, Helvetica, sans-serif ;}
+.textcolor{color: rgb(255, 255, 255);}
+#box{border:2px solid rebeccapurple;}
+#box{padding:10px;}
+#box{margin:20px;}
+#style{margin:100px;}
+.logos{image-resolution: 100px;}
+#h1{font-weight: lighter;}
+
