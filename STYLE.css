@@ -15,6 +15,8 @@ ul[id]{text-align: left;}
 #box{padding:10px;}
 #box{margin:20px;}
 #style{margin:100px;}
-.logos{image-resolution: 100px;}
+.logos{width: 1000px;
+height: 700px;
+object-fit:contain ;}
 #h1{font-weight: lighter;}
 
